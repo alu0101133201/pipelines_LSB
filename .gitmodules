@@ -1,0 +1,3 @@
+[submodule "TST_pipeline"]
+	path = TST_pipeline
+	url = https://github.com/alu0101133201/pipeline_dwarfSpheroidals.git
