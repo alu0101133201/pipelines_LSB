@@ -1,0 +1,10 @@
+The directory LIGHTS contains the pipelines to reduce LBT data
+in g and r (u and z) and INT data in Ha along with necessary 
+complementary python files or calibration performed on Ha.
+
+The pipelines files are:
+LBT_PIPELINE.sh
+H-alpha-INT.sh
+
+The Ha calibration file is:
+calibrate_Ha.sh
